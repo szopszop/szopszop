@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 
 ![Codewars](https://github.r2v.ch/codewars?user=szopszop)
 
@@ -8,4 +8,4 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
