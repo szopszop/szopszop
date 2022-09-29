@@ -5,7 +5,6 @@
 
 - 🌱 I’m currently learning at [CodeCool](https://codecool.com/en/)
 
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me: 
+-     📧 (mailto:szymontracz1@gmail.com)
 
