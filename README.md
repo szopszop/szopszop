@@ -43,6 +43,20 @@
 
 <br /> 
 <br /> 
+ 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=szopszop&show_icons=true&theme=gotham" alt="szopszop" />
+ 
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=szopszop&show_icons=true&theme=gotham" alt="szopszop" />
+ <br />
 
+ <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=szopszop&layout=compact&theme=gotham">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=szopszop&layout=compact&theme=gotham" />
+</a>
+
+<!-- 
+[![Szymon's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=szopszop)](https://github.com/szopszop/github-readme-stats)
+ -->
+  
+ <p align="left"> <img height="400px" src="https://wakatime.com/share/@b5a8f8b9-67a3-4b4d-9828-59d0f6845492/9a7dab76-ba10-45d7-be10-f4e3ccd3c123.svg" alt="szopszop" />
+ <br />
+ 
